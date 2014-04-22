@@ -1,0 +1,48 @@
+{
+  "result" : {
+    "kategoriak" : [
+      {
+        "zipUrl" : "http://dl.dropboxusercontent.com/s/3symehsntv8nm6v/2.zip",
+        "id" : 2,
+        "izena" : "Hayvanlar",
+        "token" : "90a7c1da0eaa050ea2a7b85db58a3ff8",
+        "izenGarbia" : "animaliak",
+        "deskribapena" : ""
+      },
+      {
+        "zipUrl" : "http://dl.dropboxusercontent.com/s/70cc735zi7joxjn/3.zip",
+        "id" : 3,
+        "izena" : "Evimiz",
+        "token" : "82fca51328f3399a05ffc027cc57a1be",
+        "izenGarbia" : "etxea",
+        "deskribapena" : ""
+      },
+      {
+        "zipUrl" : "http://dl.dropboxusercontent.com/s/88xt0rxwzl3ee26/4.zip",
+        "id" : 4,
+        "izena" : "Şehrimiz",
+        "token" : "cff0ec8c404176209b168ccc4bde880d",
+        "izenGarbia" : "herria",
+        "deskribapena" : ""
+      },
+      {
+        "zipUrl" : "http://dl.dropboxusercontent.com/s/utwlaq0vkpndn5o/5.zip",
+        "id" : 5,
+        "izena" : "Tatil",
+        "token" : "816f725082420055fa2328114ef439c7",
+        "izenGarbia" : "oporrak",
+        "deskribapena" : ""
+      },
+      {
+        "zipUrl" : "http://dl.dropboxusercontent.com/s/35og3xhggcfy0y6/6.zip",
+        "id" : 6,
+        "izena" : "İnsan",
+        "token" : "89f5c24c9163a98c924bab84a62cbe29",
+        "izenGarbia" : "ni",
+        "deskribapena" : ""
+      }
+    ]
+  },
+  "id" : "1",
+  "jsonrpc" : "2.0"
+}
